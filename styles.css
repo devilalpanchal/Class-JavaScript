@@ -1,0 +1,36 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.question {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+
+.answer {
+    display: none;
+    padding: 10px;
+    background-color: #f2f2f2;
+} */
+body {
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    background: antiquewhite;
+}
+.btn {
+    padding: 10px 40px;
+    border: 3px solid #1b1fee;
+    background: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+}
